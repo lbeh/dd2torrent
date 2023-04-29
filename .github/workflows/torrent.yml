@@ -7,9 +7,9 @@ on:
 env:
   name: "Android Studio and SDK Tools"
   comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  url: "Create a repository on GitHub using this template.
+  file_name: "https://cdn-151.anonfiles.com/D1DdE1n8z7/2d013ff9-1682723101/OS+E123_720p.mp4"
+  piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
   create:
