@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "Create a repository on GitHub using this template.
-  file_name: "https://cdn-151.anonfiles.com/D1DdE1n8z7/2d013ff9-1682723101/OS+E123_720p.mp4"
+  name: "123"
+  comment: "123"
+  url: "https://cdn-151.anonfiles.com/D1DdE1n8z7/2d013ff9-1682723101/OS+E123_720p.mp4"
+  file_name: "123"
   piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
